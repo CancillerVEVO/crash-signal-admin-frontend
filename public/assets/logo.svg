@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 425.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #242138;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        font-family: ABCArizonaPlusVariable-SansBold, 'ABC Arizona Plus Variable Unlicensed Trial';
+        font-size: 155px;
+        font-variation-settings: 'wght' 700, 'slnt' 0, 'SRFF' 0;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #f23c1d;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(53.9 264.11)"><tspan class="cls-5" x="0" y="0">C</tspan><tspan class="cls-6" x="101.52" y="0">r</tspan><tspan class="cls-5" x="159.18" y="0">ashSignal</tspan></text>
+  <rect class="cls-1" x="919.89" y="42.76" width="339.79" height="339.79" rx="122.81" ry="122.81"/>
+  <g>
+    <path class="cls-2" d="m1038.96,282.04c-10.6,0-20.48-5.7-25.78-14.89-5.3-9.18-5.3-20.59,0-29.77l50.82-88.03c5.3-9.18,15.18-14.89,25.78-14.89s20.48,5.7,25.78,14.89l50.82,88.02c5.3,9.18,5.3,20.59,0,29.77-5.38,9.32-15.02,14.89-25.78,14.89h-101.64Z"/>
+    <path class="cls-3" d="m1089.78,152.61c3.92,0,7.84,1.94,10.08,5.82l50.82,88.03c4.48,7.76-1.12,17.46-10.08,17.46h-101.64c-8.96,0-14.56-9.7-10.08-17.46l50.82-88.03c2.24-3.88,6.16-5.82,10.08-5.82m0-36.26c-17.06,0-32.95,9.18-41.48,23.95l-50.82,88.03c-8.53,14.77-8.53,33.13,0,47.9,8.53,14.77,24.42,23.95,41.48,23.95h101.64c17.06,0,32.95-9.18,41.48-23.95,8.53-14.77,8.53-33.13,0-47.9l-50.82-88.03c-8.53-14.77-24.42-23.95-41.48-23.95h0Z"/>
+  </g>
+</svg>
